@@ -27,3 +27,7 @@
  2) User can display different job types on the basis of hourly, fixed-price, no of hires required, no of hours to work per week and no of months required to complete the project.
  3) User can filter the search results on the basis of various categories i.e no of hires required, hourly, fixed-price,  no of hours to work per week and no of months required to 
     complete the project.
+
+## Important Note
+ server side code is in web-assignment3 folder.
+ react js frontend code is in react-assignemt2 folder.
