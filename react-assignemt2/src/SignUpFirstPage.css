@@ -1,0 +1,137 @@
+.div_uppest_signUp_upwork {
+  height: 90px;
+  border-bottom: solid 1px gainsboro;
+  border-top: solid 1px gainsboro;
+  /* background-color: orange; */
+}
+
+.div_inside_uppest_signUp_upwork {
+  margin-left: 40px;
+
+  margin-top: 25px;
+}
+.img_upwork_sign_up_image {
+  height: 40px;
+}
+.div_second_Main {
+  height: auto;
+}
+.div_get_free_account_card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 550px;
+  margin-top: 15px;
+  margin-bottom: 30px;
+  margin-left: 500px;
+  width: 800px;
+  /* background-color: hotpink; */
+  border: solid 1px gainsboro;
+}
+
+.div_get_your_free_account {
+  font-family: "Gotham SSm", "Helvetica Neue", Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  color: black;
+  font-stretch: ultra-expanded;
+  font-size: 35px;
+  width: 450px;
+  padding-left: 25px;
+  margin-top: 55px;
+  margin-bottom: 15px;
+  /* margin-top: 1px; */
+  letter-spacing: 1px;
+  font-weight: bolder;
+  /* border: solid black 2px; */
+}
+.div_for_continue {
+}
+.img_for_continue {
+  height: 220px;
+  width: 700px;
+}
+
+.div_for_form {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.input_email {
+  height: 50px;
+  width: 700px;
+
+  font-family: "Gotham SSm", "Helvetica Neue", Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+  /* font-stretch: ultra-expanded; */
+  font-size: 22px;
+}
+.div_for_continue_with_Email_button {
+}
+.button_for_continue_with_Email_button {
+  height: 50px;
+  width: 700px;
+  border-radius: 20px;
+  background-color: #37a000;
+  font-family: "Gotham SSm", "Helvetica Neue", Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  color: white;
+  font-size: 22px;
+}
+.button_for_continue_with_Email_button:hover {
+  cursor: pointer;
+  background-color: green;
+}
+.div_third_Main_as_footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #001e00;
+  height: 180px;
+}
+.div_for_015_2021_Upwork_Global_Inc {
+  font-family: "Gotham SSm", "Helvetica Neue", Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  color: white;
+  font-size: 20px;
+  font-stretch: ultra-expanded;
+  letter-spacing: 1px;
+  margin-top: 15px;
+}
+.div_for_terms_for_service {
+  font-family: "Gotham SSm", "Helvetica Neue", Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  color: white;
+  font-size: 20px;
+  font-stretch: ultra-expanded;
+  letter-spacing: 1px;
+  margin-top: 30px;
+}
+.div_for_terms_for_service:hover {
+  color: green;
+}
+.div_for_Privacy_Policy {
+  font-family: "Gotham SSm", "Helvetica Neue", Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  color: white;
+  font-size: 20px;
+  margin-top: 3px;
+  font-stretch: ultra-expanded;
+  letter-spacing: 1px;
+}
+.div_for_Privacy_Policy:hover {
+  color: green;
+}
+.div_for_Accesibility {
+  font-family: "Gotham SSm", "Helvetica Neue", Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  color: white;
+  font-size: 20px;
+  margin-top: 3px;
+  font-stretch: ultra-expanded;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+}
+.div_for_Accesibility:hover {
+  color: green;
+}

@@ -1,0 +1,337 @@
+/* ___________________Uppest title bar_______________________________ */
+
+.abc {
+  height: 100px;
+  width: 200px;
+  color: yellow;
+}
+
+.Main_page {
+  width: auto;
+}
+.div_uppest {
+  justify-content: space-between;
+  margin-bottom: -8px;
+  height: 100px;
+  background-color: #1d4354;
+}
+.div_upwork_and_searchbar {
+  /* justify-content: space-between; */
+  background-color: #1d4354;
+  /* background-color: olive; */
+  display: flex;
+  flex-direction: row;
+  margin-left: 50px;
+  padding-bottom: -60px;
+  height: 92px;
+  width: 730px;
+}
+.div_upwork_icon_and_categories {
+  display: flex;
+  flex-direction: row;
+  margin-top: -13px;
+  /* border: tomato 3px solid; */
+}
+
+.image_upwork {
+  width: "106";
+  height: "30";
+  /* height: "500px"; */
+  padding-left: 2.6cm;
+  margin-top: 30px;
+  margin-bottom: 25px;
+
+  /* border: tomato 4px solid; */
+}
+.div_uppest {
+  display: flex;
+  flex-direction: row;
+}
+
+.div_toHold_three_options {
+  display: flex;
+  justify-content: space-between;
+
+  flex-direction: row;
+  margin-top: 10px;
+  font-size: large;
+  color: #484848;
+  min-width: 430px;
+  padding-top: 24px;
+  margin-left: 5cm;
+  /* border: tomato 3px solid; */
+
+  /*--border: solid black 1px; --*/
+}
+
+.div_toHold_one_option {
+  font-family: "Gotham SSm", "Helvetica Neue", Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 14px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 20px;
+  text-align: left;
+  color: white;
+}
+.div_toHold_one_option:hover {
+  color: green;
+  cursor: pointer;
+}
+.div_toHold_one_option_alongWith_Dropdown_icon {
+  display: flex;
+  flex-direction: row;
+  font-family: none;
+}
+
+.droDown_img {
+  padding-top: 2px;
+  /*--border: solid blue 1px; --*/
+}
+.div_for_dropDown_Icon {
+  /*--border: solid brown 1px; --*/
+  margin-right: 0.2cm;
+}
+
+.div_forSearch {
+  margin-left: 10px;
+  margin-top: 22px;
+
+  height: 50px;
+  /* height: 100px; */
+
+  margin-right: 5px;
+  width: 420px;
+  /* width: 460px; */
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  background-color: #2b5468;
+  /* border: 1px solid #e0e0e0; */
+}
+
+.Img_Search_icon {
+  margin-top: 10px;
+  height: 33px;
+  margin-left: -270px;
+  /* border: solid 2px red; */
+}
+
+.Img_Search_text_img {
+  margin-top: -50px;
+  height: 33px;
+  /* border: solid 2px khaki; */
+}
+.div_upp_post_a_job {
+  display: flex;
+  flex-direction: row;
+
+  margin-right: 130px;
+  margin-top: -13px;
+  /* border: rgb(78, 39, 39) solid 3px; */
+
+  /*-- margin: solid 1px black;--*/
+  /*--border: solid 1px blue;--*/
+}
+
+.loggin {
+  background: transparent;
+  border: transparent;
+  border-radius: 15px;
+  margin-right: 15px;
+  color: #484848;
+  font-weight: bold;
+  font-stretch: expanded;
+  font-size: 14px;
+  padding-right: 5px;
+  padding-left: 5px;
+  margin-bottom: 5px;
+}
+
+.div_post_a_job {
+  margin-top: 40px;
+  background: #37a000;
+  border-radius: 10px;
+  margin-bottom: 28px;
+  color: #f6fbf3;
+  padding-right: 5px;
+  font-weight: bolder;
+  font-stretch: expanded;
+  font-size: 18px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 115px;
+  justify-content: center;
+  text-align-last: center;
+}
+.div_post_a_job:hover {
+  background: green;
+}
+
+/* ___________________________________________________________________ */
+
+/* ________________________Second TaskBar_________________________________ */
+
+.div_main_2nd_taskbar {
+  display: flex;
+  flex-direction: row;
+  padding-top: 20px;
+  padding-bottom: 50ox;
+  padding-right: 100px;
+  padding-left: 100ox;
+  width: 2000px;
+  height: 40px;
+
+  /* justify-content: space-between; */
+
+  /* border: tomato solid 3px; */
+  background-color: #f9f9f9;
+}
+
+.div_Web_dev {
+  /* border: blue solid 3px; */
+  /* width: 150px; */
+  cursor: pointer;
+
+  font-family: "Gotham SSm", "Helvetica Neue", Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 15px;
+  font-weight: 550;
+  color: #444444;
+
+  margin-left: 160px;
+}
+
+.div_Web_dev:hover {
+  text-decoration: underline;
+}
+.div_Mobile_dev {
+  /* border: blue solid 3px; */
+  margin-left: 2.5cm;
+  cursor: pointer;
+
+  font-family: "Gotham SSm", "Helvetica Neue", Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 15px;
+  font-weight: 550;
+  color: #444444;
+  /* width: 150px; */
+}
+.div_Mobile_dev:hover {
+  text-decoration: underline;
+}
+.div_Design {
+  /* border: blue solid 3px; */
+  margin-left: 2.5cm;
+  cursor: pointer;
+
+  font-family: "Gotham SSm", "Helvetica Neue", Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 15px;
+  font-weight: 550;
+  color: #444444;
+  /* width: 150px; */
+}
+.div_Design:hover {
+  text-decoration: underline;
+}
+.div_Writing {
+  /* border: blue solid 3px; */
+  margin-left: 2.5cm;
+  cursor: pointer;
+
+  font-family: "Gotham SSm", "Helvetica Neue", Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 15px;
+  font-weight: 550;
+  color: #444444;
+  /* width: 150px; */
+}
+.div_Writing:hover {
+  text-decoration: underline;
+}
+.div_Admin_Support {
+  /* border: blue solid 3px; */
+  margin-left: 2.5cm;
+  cursor: pointer;
+
+  font-family: "Gotham SSm", "Helvetica Neue", Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 15px;
+  font-weight: 550;
+  color: #444444;
+  /* width: 150px; */
+}
+
+.div_Admin_Support:hover {
+  text-decoration: underline;
+}
+.div_Customer_Support {
+  /* border: blue solid 3px; */
+  margin-left: 2.5cm;
+  cursor: pointer;
+
+  font-family: "Gotham SSm", "Helvetica Neue", Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 15px;
+  font-weight: 550;
+  color: #444444;
+  /* width: 150px; */
+}
+.div_Customer_Support:hover {
+  text-decoration: underline;
+}
+.div_Marketing {
+  /* border: blue solid 3px; */
+  margin-left: 2.5cm;
+  cursor: pointer;
+
+  font-family: "Gotham SSm", "Helvetica Neue", Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 15px;
+  font-weight: 550;
+  color: #444444;
+  /* width: 150px; */
+}
+.div_Marketing:hover {
+  text-decoration: underline;
+}
+.div_Accounting {
+  /* border: blue solid 3px; */
+  margin-left: 2.5cm;
+  cursor: pointer;
+
+  font-family: "Gotham SSm", "Helvetica Neue", Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 15px;
+  font-weight: 550;
+  color: #444444;
+  /* width: 150px; */
+}
+.div_Accounting:hover {
+  text-decoration: underline;
+}
+.div_See_All_Categories {
+  /* border: blue solid 3px; */
+  margin-left: 2.5cm;
+  cursor: pointer;
+
+  font-family: "Gotham SSm", "Helvetica Neue", Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 15px;
+  font-weight: 550;
+  color: #444444;
+  /* width: 150px; */
+  cursor: pointer;
+}
+
+.div_See_All_Categories:hover {
+  text-decoration: underline;
+}
+/* ___________________________________________________________________ */
