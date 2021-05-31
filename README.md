@@ -29,5 +29,5 @@
     complete the project.
 
 ## Important Note
- server side code is in web-assignment3 folder.
- react js frontend code is in react-assignemt2 folder.
+ Server side code is in web-assignment3 folder.
+ React js frontend code is in react-assignemt2 folder.
