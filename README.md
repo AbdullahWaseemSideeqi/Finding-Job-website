@@ -28,19 +28,23 @@
  3) User can filter the search results on the basis of various categories i.e no of hires required, hourly, fixed-price,  no of hours to work per week and no of months required to 
     complete the project.
 ## Snaps of Working Project
-#### Display Different Kind of Jobs
-![image](https://user-images.githubusercontent.com/61907137/120473436-750f3480-c3c0-11eb-8bc3-723046fc02cb.png)
 
-![image](https://user-images.githubusercontent.com/61907137/120473495-81938d00-c3c0-11eb-8d2a-821bc015b9ad.png)
+#### Display Different Kind of Jobs
+![image](https://user-images.githubusercontent.com/61907137/120474381-9290ce00-c3c1-11eb-98f6-868f141e2dd3.png)
+
+![image](https://user-images.githubusercontent.com/61907137/120474354-89076600-c3c1-11eb-9899-7b311e26ddac.png)
+
 
 #### FIlteration on Jobs Found
-![image](https://user-images.githubusercontent.com/61907137/120473568-97a14d80-c3c0-11eb-831a-251a89fabb5d.png)
+![image](https://user-images.githubusercontent.com/61907137/120474335-80169480-c3c1-11eb-9108-3f260320bdbb.png)
 
 #### Continue with email for Sign Up
-![image](https://user-images.githubusercontent.com/61907137/120473654-b30c5880-c3c0-11eb-82b3-39efd543cd35.png)
+![image](https://user-images.githubusercontent.com/61907137/120474294-77be5980-c3c1-11eb-8204-3e922b55da01.png)
+
 
 #### Complete the process of creating account for sign up
-![image](https://user-images.githubusercontent.com/61907137/120473772-d0412700-c3c0-11eb-81d6-6f820c67c726.png)
+![image](https://user-images.githubusercontent.com/61907137/120474263-6e34f180-c3c1-11eb-9c3b-0e14759ac652.png)
+
 
 
 ## Important Note
