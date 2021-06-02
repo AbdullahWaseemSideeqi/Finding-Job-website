@@ -27,6 +27,21 @@
  2) User can display different job types on the basis of hourly, fixed-price, no of hires required, no of hours to work per week and no of months required to complete the project.
  3) User can filter the search results on the basis of various categories i.e no of hires required, hourly, fixed-price,  no of hours to work per week and no of months required to 
     complete the project.
+## Snaps of Working Project
+#### Display Different Kind of Jobs
+![image](https://user-images.githubusercontent.com/61907137/120473436-750f3480-c3c0-11eb-8bc3-723046fc02cb.png)
+
+![image](https://user-images.githubusercontent.com/61907137/120473495-81938d00-c3c0-11eb-8d2a-821bc015b9ad.png)
+
+#### FIlteration on Jobs Found
+![image](https://user-images.githubusercontent.com/61907137/120473568-97a14d80-c3c0-11eb-831a-251a89fabb5d.png)
+
+#### Continue with email for Sign Up
+![image](https://user-images.githubusercontent.com/61907137/120473654-b30c5880-c3c0-11eb-82b3-39efd543cd35.png)
+
+#### Complete the process of creating account for sign up
+![image](https://user-images.githubusercontent.com/61907137/120473772-d0412700-c3c0-11eb-81d6-6f820c67c726.png)
+
 
 ## Important Note
  Server side code is in web-assignment3 folder.
