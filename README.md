@@ -31,3 +31,7 @@
 ## Important Note
  Server side code is in web-assignment3 folder.
  React js frontend code is in react-assignemt2 folder.
+
+
+## What to Install
+In order to run the project you have to install visual studio code as editor of code. Then you have to install react js and node js at your device.
